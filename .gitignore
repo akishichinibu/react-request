@@ -1,0 +1,9 @@
+node_modules/*
+.vscode
+example/*.js
+example/*.js.map
+test/*.js
+test/*.js.map
+lib
+
+package-lock.json
